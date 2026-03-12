@@ -157,35 +157,11 @@ The algorithm validates all 4 rules automatically before producing output:
 
 ## 🚀 How to Run
 
-### Option 1 — Command Line (Python only)
+### click on the below link
 
-```bash
-# Step 1: Clone the repository
-git clone https://github.com/YOUR_USERNAME/smarttriage.git
-cd smarttriage
-
-# Step 2: Run the algorithm directly
-python smarttriage_v4.py patients.csv
-
-# Output: submission.json created in the same folder
+https://smart-er-scheduler.lovable.app
 ```
 
-### Option 2 — Web App (Flask)
-
-```bash
-# Step 1: Install dependencies
-pip install -r requirements.txt
-
-# Step 2: Start the web server
-python app.py
-
-# Step 3: Open your browser
-# Go to: http://localhost:5000
-
-# Step 4: Upload patients.csv → Click Run → Download submission.json
-```
-
----
 
 ## 📊 Algorithm Performance
 
